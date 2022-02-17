@@ -1,0 +1,168 @@
+.section__second{
+    width: 1140px;
+    height: 2000px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: block;
+}
+.section__second h1{
+    position: absolute;
+    top: 1501px;
+
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 66px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.box{
+    position: absolute;
+    top: 1627px;
+    width: 550px;
+    height: 270px;
+}
+.box h2{
+    position: absolute;
+    left: 30px;
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    /* identical to box height */
+
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    color: #1A5CCE;
+    margin: 0;
+}
+.box p{
+
+    position: absolute;
+width: 355px;
+height: 130px;
+left: 30px;
+top: 61px;
+
+    font-family: Graphik;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 26px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #4E5166;
+margin: 0;
+}
+.box img{
+    position: absolute;
+left: 325px;
+top: 101px;
+
+background: url(casual-life-3d-book-4.png);
+mix-blend-mode: multiply;
+}
+.box__two{
+    position: absolute;
+    top: 1627px;
+    left: 740px;
+    width: 550px;
+    height: 270px;
+}
+.box__two h2{
+    position: absolute;
+    width: 131px;
+    height: 31px;
+    left: 30px;
+    /* top: 30px; */
+    margin: 0;
+
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    /* identical to box height */
+
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    color: #FF5964;
+}
+.box__two p{
+    margin: 0;
+    position: absolute;
+    width: 353px;
+    height: 156px;
+    left: 30px;
+    top: 41px;
+    
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 26px;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    color: #4E5166;
+}
+.box__two img{
+    margin: 0;
+    position: absolute;
+left: 382px;
+top: 153px;
+
+/* background: url(casual-life-3d-clock.png); */
+mix-blend-mode: multiply;
+}
+.box__three{
+    position: absolute;
+    top: 1957px;
+}
+.box__three h2{
+    position: absolute;
+width: 422px;
+height: 31px;
+left: 30px;
+top: 40px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #F79256;
+}
+.box__three p{
+    position: absolute;
+width: 333px;
+height: 78px;
+left: 30px;
+top: 91px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 26px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #4E5166;
+}
+.box__three img{
+    position: absolute;
+width: 153px;
+height: 169px;
+left: 325px;
+top: 98px;
+
+background: url(casual-life-3d-puzzle.png);
+mix-blend-mode: multiply;
+}

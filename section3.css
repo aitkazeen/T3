@@ -1,0 +1,281 @@
+.section__third{
+    width: 1140px;
+    height: 2000px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: block;
+}
+.section__third h1{
+    position: absolute;
+    top: 2307px;
+font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.section__third img{
+    position: absolute;
+    top: 2370px;
+    left: 580px;
+    border-radius: 1px;
+}
+.section__third .box{
+    position: absolute;
+    width: 660px;
+    height: 330px;
+    top: 2463px;
+
+    background: rgba(26, 92, 206, 0.1);
+    border-radius: 30px;    
+}
+.section__third .box h2{
+position: absolute;
+width: 142px;
+height: 22px;
+left: 56px;
+top: 43px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 20px;
+line-height: 22px;
+
+
+color: #1A5CCE;
+}
+.section__third .box h1{
+    position: absolute;
+width: 361px;
+height: 96px;
+left: 35px;
+top: 199px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 44px;
+line-height: 48px;
+
+color: #4E5166;
+}
+
+.section__third .box a{
+    position: absolute;
+width: 90px;
+height: 60px;
+left: 535px;
+top: 265px;
+
+background-color: #1A5CCE;
+border-radius: 20px;
+outline: none;
+border: none;
+/* z-index: -1; */
+background-image: url(/Vector3.svg);
+background-repeat: no-repeat;
+background-position: center;
+}
+.section__third .image{
+    
+    position: absolute;
+    top: 2463px;
+    left: 461px;
+    /* background: rgba(26, 92, 206, 0.2); */
+}
+.box2{
+    position: absolute;
+    width: 450px;
+    height: 330px;
+    left: 840px;
+    top: 2463px;
+}
+.box2 h2{
+    position: absolute;
+width: 142px;
+height: 22px;
+left: 56px;
+top: 43px;
+margin: 0;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FF5964;
+}
+.box2 h1{
+    position: absolute;
+width: 56px;
+height: 66px;
+left: 35px;
+top: 212px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #4E5166;
+}
+.box2 a{
+    position: absolute;
+width: 90px;
+height: 60px;
+left: 325px;
+top: 265px;
+
+background: #FF5964;
+border-radius: 20px;
+background-image: url(/Vector3.svg);
+background-repeat: no-repeat;
+background-position: center;
+}
+.image__two{
+    position: absolute;
+width: 196px;
+height: 199px;
+background: url(/Иллюстрация2.svg);
+left: 260px;
+
+/* border: 12px solid #FFD1D4; */
+/* border-radius: 2px; */
+/* transform: rotate(90deg) */
+}
+.box3{
+    position: absolute;
+width: 500px;
+height: 330px;
+left: 150px;
+top: 2823px;
+}
+.box3 h2{
+    position: absolute;
+width: 142px;
+height: 22px;
+left: 56px;
+top: 43px;
+margin: 0;
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+
+color: #F79256;
+}
+.box3 h1{
+    position: absolute;
+width: 178px;
+height: 48px;
+left: 35px;
+top: 247px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 44px;
+line-height: 48px;
+margin: 0;
+color: #4E5166;
+}
+.box3 a{
+    position: absolute;
+width: 90px;
+height: 60px;
+left: 375px;
+top: 235px;
+
+background: #F79256;
+border-radius: 20px;
+background-image: url(/Vector3.svg);
+background-repeat: no-repeat;
+background-position: center;
+}
+.image__three{
+    
+position: absolute;
+width: 196px;
+height: 199px;
+background: url(/Иллюстрация3.svg);
+left: 260px;
+}
+.box4{
+    position: absolute;
+width: 610px;
+height: 330px;
+left: 680px;
+top: 2823px;
+
+background: rgba(83, 83, 197, 0.1);
+border-radius: 30px;
+}
+.box4 h2{
+    position: absolute;
+width: 142px;
+height: 22px;
+left: 56px;
+top: 43px;
+margin: 0;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #1A5CCE;
+}
+.box4 h1{
+    position: absolute;
+width: 255px;
+height: 48px;
+left: 35px;
+top: 247px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 44px;
+line-height: 48px;
+
+color: #4E5166;
+margin: 0;
+}
+
+.box4__a{
+    position: absolute;
+width: 90px;
+height: 60px;
+left: 1165px;
+top: 3058px;
+
+background: #5353C5;
+border-radius: 20px;
+
+background-image: url(/Vector3.svg);
+background-repeat: no-repeat;
+background-position: center;
+}
+.image__four{
+    position: absolute;
+width: 196px;
+height: 199px;
+background: url(/Иллюстрация4.svg);
+left: 330px;
+}

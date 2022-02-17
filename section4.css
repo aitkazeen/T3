@@ -1,0 +1,148 @@
+
+.section__four{
+    width: 1140px;
+    /* height: 2000px; */
+    margin-left: 150px;
+    margin-right: 150px;
+    display: block;
+}
+.news h1{
+position: absolute;
+top: 3243px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.news img{
+position: absolute;
+    top: 3310px;
+    left: 611px;
+    border-radius: 1px;
+
+}
+.section__four .section__box{
+    position: absolute;
+width: 1440px;
+height: 580px;
+left: 0px;
+top: 3419px;
+
+background: #FF5964;
+}
+.section__four .section__box .section__wrapper{
+    position: absolute;
+width: 1200px;
+height: 435px;
+left: 120px;
+top: 47px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 30px;
+}
+.section__four .section__box .section__wrapper .illus{
+    position: absolute;
+left: 49.17%;
+right: 13.54%;
+bottom: 40px;
+}
+.section__four .section__box .section__wrapper h1{
+    position: absolute;
+width: 959px;
+height: 88px;
+left: 60px;
+top: 188px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 40px;
+line-height: 44px;
+
+color: #FFFFFF;
+}
+.section__four .section__box .section__wrapper h2{
+    position: absolute;
+width: 647px;
+height: 66px;
+left: 60px;
+top: 306px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 33px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: rgba(255, 255, 255, 0.6);
+}
+.section__four .section__box .section__wrapper div{
+    position: absolute;
+width: 183px;
+height: 40px;
+left: 60px;
+top: 40px;
+
+background: #FF959C;
+border-radius: 10px;
+}
+.section__four .section__box .section__wrapper p{
+    position: absolute;
+width: 141px;
+height: 22px;
+left: 30px;
+top: -12px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: 950;
+font-size: 20px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+.left{
+    position: absolute;
+top: 425px;
+right: 200px;
+
+/* background: #FFFFFF; */
+border-radius: 1px;
+transform: rotate(180deg);
+}
+.right{
+    position: absolute;
+    top: 425px;
+    left: 1100px;
+    
+    border-radius: 1px;
+}
+span{
+position: absolute;
+width: 18px;
+height: 18px;
+border-radius: 50%;
+}
+.dark{
+left: 564px;
+top: 500px;
+
+background: rgba(255, 255, 255, 0.5);
+}
+.white{
+left: 600px;
+top: 500px;
+background: #FFFFFF;
+}
+.darker{
+    left: 636px;
+    top: 500px;
+    background: rgba(255, 255, 255, 0.5);
+}
